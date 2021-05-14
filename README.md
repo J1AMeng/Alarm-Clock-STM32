@@ -10,7 +10,7 @@ Final project of STM32 course.
 Seven-segment display can be connected in the following way: 
  * Pins from PC0 to PC6 are segments a, b, c, ..., g respectively.
  * Pins from PC7 to PC10 are numbers 1-4.
- * Pin PC11 is dot (separates minutes and hours).
+ * Pin PC11 is a dot (separates minutes and hours).
 
 Now let's connect two addition buttons to manage the tuning:
  * It is enough to use 3V or 5V and pins PC14 and PC14 respectively.
