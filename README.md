@@ -13,7 +13,7 @@ Seven-segment display can be connected in the following way:
  * Pin PC11 is a dot (separates minutes and hours).
 
 Now let's connect two addition buttons to manage the tuning:
- * It is enough to use 3V or 5V and pins PC14 and PC14 respectively.
+ * It is enough to use 3V or 5V and pins PC13 and PC14 respectively.
 
 OK. Piezo speaker is left. Use GND and PA5.
 Now the alarm is in a workable state.
